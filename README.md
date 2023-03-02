@@ -27,6 +27,11 @@ The goal of this project is to create the database that reflects one of the impo
 2. Assume that all the components have equal weights
 3. Final indicator=weighted sum of the components.
 
+## Teams membres:
+1. Thao PHAM 
+2. Yen LE
+3. Marcia OTALORA
+
 
 
 
