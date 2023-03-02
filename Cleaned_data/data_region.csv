@@ -1,0 +1,45 @@
+,id,code,iso2code,name
+0,,AFE,ZH,Africa Eastern and Southern
+1,,AFR,A9,Africa
+2,,AFW,ZI,Africa Western and Central
+3,,ARB,1A,Arab World
+4,,CAA,C9,Sub-Saharan Africa (IFC classification)
+5,,CEA,C4,East Asia and the Pacific (IFC classification)
+6,,CEB,B8,Central Europe and the Baltics
+7,,CEU,C5,Europe and Central Asia (IFC classification)
+8,,CLA,C6,Latin America and the Caribbean (IFC classification)
+9,,CME,C7,Middle East and North Africa (IFC classification)
+10,,CSA,C8,South Asia (IFC classification)
+11,,CSS,S3,Caribbean small states
+12,,EAP,4E,East Asia & Pacific (excluding high income)
+13,,EAR,V2,Early-demographic dividend
+14,1,EAS,Z4,East Asia & Pacific
+15,,ECA,7E,Europe & Central Asia (excluding high income)
+16,2,ECS,Z7,Europe & Central Asia
+17,,EMU,XC,Euro area
+18,,EUU,EU,European Union
+19,,FCS,F1,Fragile and conflict affected situations
+20,,HPC,XE,Heavily indebted poor countries (HIPC)
+21,,LAC,XJ,Latin America & Caribbean (excluding high income)
+22,3,LCN,ZJ,Latin America & Caribbean 
+23,,LDC,XL,Least developed countries: UN classification
+24,,LTE,V3,Late-demographic dividend
+25,,MDE,M1,Middle East (developing only)
+26,4,MEA,ZQ,Middle East & North Africa
+27,,MNA,XQ,Middle East & North Africa (excluding high income)
+28,6,NAC,XU,North America
+29,,NAF,M2,North Africa
+30,,NRS,6X,Non-resource rich Sub-Saharan Africa countries
+31,,OED,OE,OECD members
+32,,OSS,S4,Other small states
+33,,PRE,V1,Pre-demographic dividend
+34,,PSS,S2,Pacific island small states
+35,,PST,V4,Post-demographic dividend
+36,,RRS,R6,Resource rich Sub-Saharan Africa countries
+37,8,SAS,8S,South Asia
+38,,SSA,ZF,Sub-Saharan Africa (excluding high income)
+39,9,SSF,ZG,Sub-Saharan Africa 
+40,,SST,S1,Small states
+41,,SXZ,A4,Sub-Saharan Africa excluding South Africa
+42,,WLD,1W,World
+43,,XZN,A5,Sub-Saharan Africa excluding South Africa and Nigeria
